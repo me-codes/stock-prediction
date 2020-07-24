@@ -27,4 +27,4 @@ The NIFTY 50 is owned and managed by India Index Services and Products Ltd. (IIS
   - Data https://www.kaggle.com/rohanrao/nifty50-stock-market-data
   
 ### Reference:
-- DLithe ML taining https://dlithe.com/machine-learning-course-training-bangalore/
+- DLithe ML training https://dlithe.com/machine-learning-course-training-bangalore/
